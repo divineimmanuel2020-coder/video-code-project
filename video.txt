@@ -1,0 +1,11 @@
+This project is now an animation-based video system.
+
+Next step will convert this animation into real MP4 video using a renderer (FFmpeg or Remotion setup).
+
+Current assets:
+- HTML animation (index.html)
+- Node project setup (package.json)
+- Basic script file (video.js)
+
+Goal:
+Convert browser animation into downloadable video file.
